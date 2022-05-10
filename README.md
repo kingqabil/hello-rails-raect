@@ -186,11 +186,11 @@ This project is build with:
 
 ## Authors
 
-👤 **Syeda Juveria Afreen**
+👤 **SadiQ HabiL**
 
-- GitHub: [@sja-thedude](https://github.com/sja-thedude)
-- Twitter [@sja_thedude](https://twitter.com/sja_thedudo)
-- LinkedIn [sja-thedude](https://www.linkedin.com/in//)
+- GitHub: [@kingqabil](https://github.com/kingqabil)
+- Twitter: [@kingqabil](https://twitter.com/kingqabil)
+- LinkedIn: [@kingqabil](https://linkedin.com/in/kingqabil)
 
 ## 🤝 Contributor
 
