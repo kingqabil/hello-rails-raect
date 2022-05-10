@@ -116,7 +116,7 @@ $  sudo service postgresql restart
 
 #### Listing Existing Routes
 
-- You can now visit `http://localhost:3000` to view your new website!
+- You can now visit `http://localhost:3000` to view your new website!.
 
 
 
